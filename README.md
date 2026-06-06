@@ -7,8 +7,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/123cz789/LingoPin-AHK/releases/latest"><img src="https://img.shields.io/badge/Download-LingoPin.exe%20(绿色免安装版)-green?style=for-the-badge&logo=windows" alt="Download LingoPin.exe"></a>
+</p>
+
+<p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/123cz789/LingoPin-AHK" alt="License"></a>
-  <a href="https://www.autohotkey.com/"><img src="https://img.shields.io/badge/AutoHotkey-v2.0+-green.svg" alt="AHK Version"></a>
+  <a href="https://www.autohotkey.com/"><img src="https://img.shields.io/badge/AutoHotkey-v2.0+-orange.svg" alt="AHK Version"></a>
   <img src="https://img.shields.io/badge/DLP-Anti--Watermark-blue" alt="DLP Clean">
 </p>
 
